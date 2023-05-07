@@ -1,0 +1,12 @@
+navbar_entries:
+  - title: Blog
+    url: blog
+
+project_entries:
+
+footer_entries:
+  - title: GitHub
+    url: https://github.com/evanzbrown
+
+misc_entries:
+
